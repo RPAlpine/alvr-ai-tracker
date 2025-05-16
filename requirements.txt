@@ -1,0 +1,4 @@
+serpapi==2.0.0
+# Optional—only if you enable Google-Sheets push
+gspread==6.1.0
+oauth2client==4.1.3
